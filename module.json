@@ -1,7 +1,7 @@
 {
   "id": "variachel-san-katarin-scenes",
   "title": "San Katarin Scenes",
-  "version": "1.1.0",
+  "version": "12.0.0",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -15,7 +15,7 @@
   ],
   "url": "https://github.com/variachel/variachel-san-katarin-scenes",
   "manifest": "https://github.com/variachel/variachel-san-katarin-scenes/releases/latest/download/module.json",
-  "download": "https://github.com/variachel/variachel-san-katarin-scenes/archive/v1.1.0.zip",
+  "download": "https://github.com/variachel/variachel-san-katarin-scenes/archive/v12.0.0.zip",
   "packs": [
     {
       "name": "scenes",
